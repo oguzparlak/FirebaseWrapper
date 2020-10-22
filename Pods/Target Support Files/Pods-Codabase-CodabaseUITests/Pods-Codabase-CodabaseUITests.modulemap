@@ -1,0 +1,6 @@
+framework module Pods_Codabase_CodabaseUITests {
+  umbrella header "Pods-Codabase-CodabaseUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

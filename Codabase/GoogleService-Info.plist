@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>382621290273-92vtootk9fg6f2il7633redfk0tu26dq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.382621290273-92vtootk9fg6f2il7633redfk0tu26dq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-d1sJjl5nluPiVZfkkaIZK30hHaAo8vg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>382621290273</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.oguzparlak.Codabase</string>
+	<key>PROJECT_ID</key>
+	<string>codabase-3315c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>codabase-3315c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:382621290273:ios:a787c78fcdb416e207f860</string>
+	<key>DATABASE_URL</key>
+	<string>https://codabase-3315c.firebaseio.com</string>
+</dict>
+</plist>

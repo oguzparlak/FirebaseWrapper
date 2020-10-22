@@ -1,0 +1,6 @@
+framework module Pods_Codabase {
+  umbrella header "Pods-Codabase-umbrella.h"
+
+  export *
+  module * { export * }
+}
